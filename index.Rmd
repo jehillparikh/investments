@@ -1,0 +1,23 @@
+--- 
+title: "Jehill's Investing Diary"
+author: "Jehill Parikh"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "Personal investing dairy"
+---
+
+# Welcome, My Personal Investing Diary  
+
+Investing is a journey, and every investor has a story. With strong belief, in learning from experiences, tracking insights, and making informed financial decisions. Whether you’re a seasoned investor or just starting out, we hope this blog adds values to personal investments journey, by providing—a place of strategies, knowledge and experenice markets, and refine decision-making. 
+
+From market trends to portfolio strategies, so specific examples we cover key investment principles to help you navigate the financial world with confidence, as we explore the ups and downs of investing, share valuable lessons, and grow together toward financial independence.  
+
+It is important to note that content on this blog is not a recommendation and no investment decisions or recommendations are provide in any of the content on this blog, and investing inovles risk, and the reader is encourage to consulate a professional to seek advice. The content here is education and not personal recommendation. 
+
+Stay curious. Stay disciplined. Invest smarter.
