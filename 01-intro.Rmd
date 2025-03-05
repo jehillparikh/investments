@@ -1,0 +1,88 @@
+--- 
+title: "Jehill's Investing Diary"
+author: "Jehill Parikh"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "Personal investing dairy"
+---
+
+
+# Investment Checklist
+
+There are many investing thoeries and concepts, however, what generally is most helpful is need to determine a checklist summary various analysis. At the onset we start with a framework to assess macroeconomic, sector-specific, market-related, and investment-specific factors before making informed investment decisions.  
+
+## 1. Macroeconomic Factors  
+
+- **GDP Growth**: Probability of economic expansion or contraction affecting investment opportunities.  
+- **Interest Rates**: Probability of fluctuations impacting borrowing costs and investment decisions.  
+- **Inflation**: Probability of moderate inflation benefiting asset values or high inflation increasing costs.  
+- **Unemployment Rate**: Probability of lower unemployment increasing consumer spending or higher unemployment reducing demand.  
+- **Government Policies**: Probability of supportive or restrictive policies impacting investment sectors.  
+- **Currency Movements**: Probability of depreciation increasing import costs or appreciation reducing expenses.  
+- **Commodity Prices**: Probability of price increases raising costs or decreases lowering expenses.  
+
+## 2. Sector-Specific Factors  
+
+- **Sector Growth Rate**: Probability of sector expansion due to market trends or contraction from adverse conditions.  
+- **Technological Advancements**: Probability of innovation driving growth or obsolescence impacting competitiveness.  
+- **Regulations**: Probability of favorable policies supporting growth or restrictive regulations increasing compliance costs.  
+- **Supply Chain Issues**: Probability of disruptions delaying projects or improvements reducing costs.  
+- **Demand Trends**: Probability of rising demand boosting investments or declining demand reducing opportunities.  
+- **Sector Sentiment**: Probability of positive investor sentiment driving growth or negative sentiment limiting investments.  
+
+## 3. Market Factors  
+
+- **Market Liquidity**: Probability of high liquidity enabling smooth transactions or low liquidity increasing volatility.  
+- **Investor Sentiment**: Probability of optimism boosting investment inflows or pessimism leading to sell-offs.  
+- **Institutional Buying/Selling**: Probability of large-scale institutional investments or withdrawals influencing market trends.  
+- **Volatility**: Probability of stable market conditions or high volatility affecting investment stability.  
+
+## 4. Standard Investment Factors  
+
+- **Value (P/E)**: Probability of undervaluation presenting a buying opportunity or overvaluation limiting returns.  
+- **Quality (ROE)**: Probability of strong returns on equity driving investment attractiveness or weak returns impacting valuation.  
+- **Momentum (Price Trend)**: Probability of upward momentum indicating growth potential or downward trends signaling caution.  
+- **ROCE (Return on Capital Employed)**: Probability of efficient capital use generating high returns or inefficiencies lowering profitability.  
+- **Size (Market Capitalization)**: Probability of a company or sector gaining large-cap status or remaining in small/mid-cap range.  
+- **Volatility (Beta)**: Probability of low beta indicating stability or high beta signaling sensitivity to market conditions.  
+- **Alpha (Risk-Adjusted Return)**: Probability of strong risk-adjusted performance or underperformance relative to benchmarks.  
+- **Beta (Systematic Risk)**: Probability of low systematic risk for stable investments or high beta indicating exposure to market fluctuations.  
+
+## 5. Growth Investing Factors  
+
+- **Growth Rate**: Probability of sustained revenue and earnings growth over time.  
+- **Quality of Growth**: Probability of growth being driven by strong fundamentals versus temporary market conditions.  
+- **Longevity of Growth**: Probability of a company's or sector's growth being sustainable in the long run.  
+- **Scalability**: Probability of a business model being able to scale efficiently without significant cost increases.  
+- **Market Expansion**: Probability of entering new markets or expanding market share contributing to sustained growth.  
+- **Innovation & R&D**: Probability of continuous innovation driving competitive advantage and future revenue streams.  
+- **Competitive Positioning**: Probability of maintaining or strengthening market leadership against competitors.  
+- **Profitability of Growth**: Probability of revenue growth translating into actual profitability rather than just higher costs.  
+
+## 6. Balance Sheet Factors  
+
+- **Debt Levels**: Probability of manageable debt improving financial stability versus excessive debt increasing financial risk.  
+- **Liquidity Ratios**: Probability of strong liquidity ensuring smooth operations versus liquidity constraints limiting flexibility.  
+- **Asset Quality**: Probability of high-quality assets appreciating in value versus low-quality assets leading to impairments.  
+- **Cash Flow Stability**: Probability of consistent positive cash flow supporting growth versus erratic cash flow affecting financial planning.  
+- **Capital Structure**: Probability of an optimal mix of debt and equity enhancing financial resilience versus an unbalanced structure increasing risk.  
+- **Working Capital Efficiency**: Probability of efficient working capital management improving operations versus inefficiencies leading to cash flow problems.  
+- **Dividend Sustainability**: Probability of consistent and growing dividends indicating financial strength versus unsustainable payouts leading to cuts.  
+- **Book Value Growth**: Probability of rising book value per share reflecting increasing intrinsic worth versus declining book value signaling potential issues.  
+
+## 7. Operating Leverage Factors  
+
+- **Fixed vs. Variable Costs**: Probability of a high fixed-cost structure amplifying profit growth versus variable costs providing flexibility.  
+- **Break-even Point**: Probability of reaching the break-even point faster with high operating leverage versus slower with low leverage.  
+- **Margin Expansion**: Probability of improving operating margins as revenue grows due to fixed cost absorption.  
+- **Cost Efficiency**: Probability of leveraging economies of scale to reduce per-unit costs and improve profitability.  
+- **Revenue Sensitivity**: Probability of revenue fluctuations significantly impacting profitability due to high operating leverage.  
+- **Operational Flexibility**: Probability of adapting cost structures to changing market conditions efficiently.  
+```
+
